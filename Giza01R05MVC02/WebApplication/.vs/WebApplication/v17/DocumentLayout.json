@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./TestOneDB/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\services\\studentlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\services\\studentlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\services\\stucrsreslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\services\\stucrsreslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\models\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\stucrsres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\services\\departmentlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\services\\departmentlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./TestOneDB/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./TestOneDB/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\data\\testonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\data\\testonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\services\\courselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\services\\courselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\services\\teacherlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\services\\teacherlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\migrations\\testonedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\migrations\\testonedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Migrations\\20261110141258_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication\\Migrations\\20261110141258_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|d:\\menna-d\\full-stack depi\\mvcsessions\\assignments\\giza01r05mvc02\\webapplication\\webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0695E2-F845-43FF-B6FE-A4A7BDC4F064}|WebApplication\\WebApplication.csproj|solutionrelative:webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 448,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Students [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./TestOneDB/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "dbo.Students [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-10T14:49:56.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T14:48:05.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T14:46:28.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Course\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T14:27:03.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StuCrsResLogic.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\StuCrsResLogic.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Services\\StuCrsResLogic.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\StuCrsResLogic.cs",
+              "RelativeToolTip": "WebApplication\\Services\\StuCrsResLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:19:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Student.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:52:54.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:44:55.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StuCrsRes.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\StuCrsRes.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\StuCrsRes.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\StuCrsRes.cs",
+              "RelativeToolTip": "WebApplication\\Models\\StuCrsRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:53:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "WebApplication\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-10T14:41:47.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentLogic.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\StudentLogic.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Services\\StudentLogic.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\StudentLogic.cs",
+              "RelativeToolTip": "WebApplication\\Services\\StudentLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:20:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:40:47.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Department.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:47:13.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Courses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./TestOneDB/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "dbo.Courses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-10T14:29:01.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApplication\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:24:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Departments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./TestOneDB/True/SqlTable/dbo.Departments.sql",
+              "ToolTip": "dbo.Departments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-10T14:29:40.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentLogic.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\DepartmentLogic.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Services\\DepartmentLogic.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\DepartmentLogic.cs",
+              "RelativeToolTip": "WebApplication\\Services\\DepartmentLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:16:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20261110141258_InitialCreate.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Migrations\\20261110141258_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Migrations\\20261110141258_InitialCreate.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Migrations\\20261110141258_InitialCreate.cs",
+              "RelativeToolTip": "WebApplication\\Migrations\\20261110141258_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:12:58.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherLogic.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\TeacherLogic.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Services\\TeacherLogic.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\TeacherLogic.cs",
+              "RelativeToolTip": "WebApplication\\Services\\TeacherLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:21:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestOneDBContext.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Data\\TestOneDBContext.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Data\\TestOneDBContext.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Data\\TestOneDBContext.cs",
+              "RelativeToolTip": "WebApplication\\Data\\TestOneDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:01:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Course.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Course.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:51:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Models\\Teacher.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Models\\Teacher.cs",
+              "RelativeToolTip": "WebApplication\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T13:48:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Program.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Program.cs",
+              "RelativeToolTip": "WebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:05:02.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestOneDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Migrations\\TestOneDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Migrations\\TestOneDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Migrations\\TestOneDBContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication\\Migrations\\TestOneDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:15:49.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseLogic.cs",
+              "DocumentMoniker": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\CourseLogic.cs",
+              "RelativeDocumentMoniker": "WebApplication\\Services\\CourseLogic.cs",
+              "ToolTip": "D:\\menna-D\\Full-Stack Depi\\MVCSessions\\Assignments\\Giza01R05MVC02\\WebApplication\\WebApplication\\Services\\CourseLogic.cs",
+              "RelativeToolTip": "WebApplication\\Services\\CourseLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:18:23.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
